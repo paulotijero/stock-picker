@@ -1,6 +1,6 @@
 # **The Odin Project - Ruby Programming**
 
-### **Project: Stock Picker**
+### **Project: [Stock Picker](stock_picker.rb)**
 
 ### **Introduction:**
 
